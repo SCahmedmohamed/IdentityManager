@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # IdentityManager - Advanced Authentication & OAuth System
->>>>>>> cc4f6fda4026bdb1d178dcfed7d5685e0c4ce907
+
 
 Welcome to the TaskManager API project! This repository showcases a comprehensive and secure Authentication and Authorization system built using **ASP.NET Core 8 Web API**, following Clean Architecture principles.
 
@@ -138,4 +138,4 @@ The API will be available at `https://localhost:7001` (or your configured port),
 <<<<<<< HEAD
 
 *Created by [Ahmed Mohamed Ibrahim]*
->>>>>>> cc4f6fda4026bdb1d178dcfed7d5685e0c4ce907
+
