@@ -136,7 +136,6 @@ The API will be available at `https://localhost:7001` (or your configured port),
 
 ---
 <<<<<<< HEAD
-*Created by [Your Name]*
-=======
+
 *Created by [Ahmed Mohamed Ibrahim]*
 >>>>>>> cc4f6fda4026bdb1d178dcfed7d5685e0c4ce907
