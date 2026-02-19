@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|solutionrelative:web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475F2DA-97A6-4D9A-AE65-86AB7D7E018F}|Domain\\Domain.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475F2DA-97A6-4D9A-AE65-86AB7D7E018F}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2582C731-C4DB-43AC-8A1B-C8101306D495}|Infrastructure\\Infrastructure.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\infrastructure\\dbcontexts\\tm_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2582C731-C4DB-43AC-8A1B-C8101306D495}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\dbcontexts\\tm_dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F475F2DA-97A6-4D9A-AE65-86AB7D7E018F}|Domain\\Domain.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F475F2DA-97A6-4D9A-AE65-86AB7D7E018F}|Domain\\Domain.csproj|solutionrelative:domain\\exceptions\\badrequestexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\web\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|solutionrelative:web\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66746D8C-993B-4A1C-864A-2183E8F0AEFC}|Web\\API.csproj|solutionrelative:web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\dtos\\auth\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\resetpasswordrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2582C731-C4DB-43AC-8A1B-C8101306D495}|Infrastructure\\Infrastructure.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\infrastructure\\migrations\\20260216235525_improvements identity classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2582C731-C4DB-43AC-8A1B-C8101306D495}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\20260216235525_improvements identity classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\services\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\serices.abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\serices.abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\dtos\\auth\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|c:\\users\\ahmed\\source\\repos\\taskmanager.sln\\application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5B8364B-66D1-4B5A-BA92-0A7CD7F187ED}|Application\\Application.csproj|solutionrelative:application\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BadRequestException.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeDocumentMoniker": "Domain\\Exceptions\\BadRequestException.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Domain\\Exceptions\\BadRequestException.cs",
+              "RelativeToolTip": "Domain\\Exceptions\\BadRequestException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T02:00:13.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TM_DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Infrastructure\\DbContexts\\TM_DbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DbContexts\\TM_DbContext.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Infrastructure\\DbContexts\\TM_DbContext.cs",
+              "RelativeToolTip": "Infrastructure\\DbContexts\\TM_DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:58:24.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\Controllers\\OAuthController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\OAuthController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\Controllers\\OAuthController.cs",
+              "RelativeToolTip": "Web\\Controllers\\OAuthController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:41:31.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResetPasswordRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Auth\\ResetPasswordRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T00:17:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\appsettings.json",
+              "RelativeToolTip": "Web\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-17T00:07:31.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Services\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\JwtTokenService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Services\\JwtTokenService.cs",
+              "RelativeToolTip": "Application\\Services\\JwtTokenService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T00:04:23.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260216235525_Improvements Identity Classes.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Infrastructure\\Migrations\\20260216235525_Improvements Identity Classes.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\20260216235525_Improvements Identity Classes.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Infrastructure\\Migrations\\20260216235525_Improvements Identity Classes.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\20260216235525_Improvements Identity Classes.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:55:25.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ServiceManager.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Application\\Services\\ServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:52:38.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAMwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:45:17.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T23:33:29.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Serices.Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Serices.Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Serices.Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "Application\\Serices.Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:13:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Auth\\ResetPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T03:11:32.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T16:47:46.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Auth\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\AuthResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\Auth\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T16:00:46.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Application\\DTOs\\Auth\\RegisterDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Auth\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:56:44.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\TaskManager.sln\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T15:46:42.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
