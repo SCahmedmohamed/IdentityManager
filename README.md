@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-# TaskManager API - Advanced Authentication & OAuth System
-=======
 # IdentityManager - Advanced Authentication & OAuth System
 >>>>>>> cc4f6fda4026bdb1d178dcfed7d5685e0c4ce907
 
